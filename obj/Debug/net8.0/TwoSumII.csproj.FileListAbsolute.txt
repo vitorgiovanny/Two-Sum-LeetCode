@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.sourcelink.json
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\bin\Debug\net8.0\TwoSumII.exe
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\bin\Debug\net8.0\TwoSumII.deps.json
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\bin\Debug\net8.0\TwoSumII.runtimeconfig.json
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\bin\Debug\net8.0\TwoSumII.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\bin\Debug\net8.0\TwoSumII.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\refint\TwoSumII.dll
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.pdb
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\TwoSumII.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Documentos\my challenges\LeetCode\Two Sum II - Input Array Is Sorted\TwoSumII\obj\Debug\net8.0\ref\TwoSumII.dll
